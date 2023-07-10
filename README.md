@@ -11,6 +11,7 @@ Commercial use is not within the scope of this project. The dataset used to trai
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 - [License](#license)
+- [Contact](#contact)
 
 ## Project Overview
 
