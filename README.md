@@ -28,6 +28,8 @@ The Gesture Automation project focuses on automating machine operations based on
 ## Demo
 
 In progress.
+![](giphy.gif)
+
 
 ## Technologies Used
 
