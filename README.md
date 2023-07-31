@@ -1,6 +1,6 @@
 # Gesture Recognition for Machine Automation - ALFRED
 
-ALFRED is a personal project developed to explore the world of deep learning and its application in automating machine operations using hand gestures in real time. The project utilizes various technologies and libraries such as Mediapipe, OpenCV (cv2), Pyautogui, and LSTM models to achieve its objectives.
+ALFRED is a personal project developed to explore the world of deep learning and its application in automating machine operations using hand gestures in real time. The project utilizes various technologies and libraries such as Mediapipe, OpenCV (cv2), Pyautogui, and LSTM models to achieve its objectives of performing tasks like minimizing and switiching windows for starters.
 
 Commercial use is not within the scope of this project. The dataset used to train the model was generated solely by the author through multiple recordings for each hand gesture. Furthermore, the automation functions implemented in this project are specifically designed for macOS machines. While a more generalized solution could be explored in the future, it was not the primary focus of this project.
 
